@@ -1,3 +1,9 @@
 [submodule "aima"]
 	path = aima
 	url = https://github.com/aimacode/aima-python
+[submodule "Axelrod"]
+	path = Axelrod
+	url = https://github.com/Axelrod-Python/Axelrod.git
+[submodule "python-constraint"]
+	path = constraint
+	url = https://github.com/python-constraint/python-constraint.git
