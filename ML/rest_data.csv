@@ -1,4 +1,4 @@
-alternative,hasBar,isFriday,hungry,patrons,cost,raining,reservation,type,wait_estimate,stay?
+alt,hasBar,isFri,hungry,patrons,cost,raining,reserv,type,time,stay?
 Yes,No,No,Yes,Some,$$$,No,Yes,French,0-10,Yes
 Yes,No,No,Yes,Full,$,No,No,Thai,30-60,No
 No,Yes,No,No,Some,$,No,No,Burger,0-10,Yes
@@ -11,3 +11,4 @@ No,Yes,Yes,No,Full,$,Yes,No,Burger,>60,No
 Yes,Yes,Yes,Yes,Full,$$$,No,Yes,Italian,10-30,No
 No,No,No,No,None,$,No,No,Thai,0-10,No
 Yes,Yes,Yes,Yes,Full,$,No,No,Burger,30-60,Yes
+
