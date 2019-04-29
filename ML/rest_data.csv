@@ -1,4 +1,4 @@
-alt,hasBar,isFri,hungry,patrons,cost,raining,reserv,type,time,stay?
+alt,hasBar,isFri,hungry,patrons,cost,rain,reserv,type,time,STAY
 Yes,No,No,Yes,Some,$$$,No,Yes,French,0-10,Yes
 Yes,No,No,Yes,Full,$,No,No,Thai,30-60,No
 No,Yes,No,No,Some,$,No,No,Burger,0-10,Yes
